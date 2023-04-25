@@ -1,0 +1,6 @@
+pandas
+pdf2image
+opencv-python
+tqdm
+scikit-learn
+tensorflow
